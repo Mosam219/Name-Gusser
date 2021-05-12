@@ -3,8 +3,10 @@ import './ResultContainer.css';
 import NameCard from '../NameCard/NameCard';
 
 const ResultContainer = ({suggestedNames}) => {
+    var i = 0;
     const suggestNameJsx = suggestedNames.map((suggestedName) => {
-        return <NameCard key={suggestedName} suggestedName = {suggestedName}/>
+        i++;
+        return <NameCard key={suggestedName+i} suggestedName = {suggestedName}/>
     });
     return (
         <div className="ResultContainer">
