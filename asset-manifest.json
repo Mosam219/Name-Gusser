@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Name-Gusser/static/css/main.57d4c4bb.chunk.css",
+    "main.css": "/Name-Gusser/static/css/main.6411b626.chunk.css",
     "main.js": "/Name-Gusser/static/js/main.225d6b46.chunk.js",
     "main.js.map": "/Name-Gusser/static/js/main.225d6b46.chunk.js.map",
     "runtime-main.js": "/Name-Gusser/static/js/runtime-main.90097457.js",
@@ -8,13 +8,13 @@
     "static/js/2.9743808c.chunk.js": "/Name-Gusser/static/js/2.9743808c.chunk.js",
     "static/js/2.9743808c.chunk.js.map": "/Name-Gusser/static/js/2.9743808c.chunk.js.map",
     "index.html": "/Name-Gusser/index.html",
-    "static/css/main.57d4c4bb.chunk.css.map": "/Name-Gusser/static/css/main.57d4c4bb.chunk.css.map",
+    "static/css/main.6411b626.chunk.css.map": "/Name-Gusser/static/css/main.6411b626.chunk.css.map",
     "static/js/2.9743808c.chunk.js.LICENSE.txt": "/Name-Gusser/static/js/2.9743808c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.90097457.js",
     "static/js/2.9743808c.chunk.js",
-    "static/css/main.57d4c4bb.chunk.css",
+    "static/css/main.6411b626.chunk.css",
     "static/js/main.225d6b46.chunk.js"
   ]
 }
